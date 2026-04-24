@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Environment
+.env
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary
+*.log
+*.tmp
+
+# Testing
+.pytest_cache/
+
+# Wiki vault — local-only (public clone must not ship vault mirrors or Obsidian)
+WIKI.md
+wiki/
+.obsidian/
+
+# Submission/admin notes — local-only
+paper/SSRN_submission.md
