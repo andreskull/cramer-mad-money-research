@@ -6,7 +6,7 @@ Reproducibility kit for the working paper:
 
 > Kull, A. (2026). *What Cramer Holds vs What He Recommends:
 > Signal-Time Features in 16,701 Mad Money Recommendations (2018–2024)*.
-> Working paper. SSRN: *forthcoming*.
+> Working paper. [SSRN 6643379](https://ssrn.com/abstract=6643379).
 
 > **Paper →** [`paper/Kull_2026_Cramer_Holds_vs_Recommends.md`](paper/Kull_2026_Cramer_Holds_vs_Recommends.md) · [PDF](paper/Kull_2026_Cramer_Holds_vs_Recommends.pdf)
 

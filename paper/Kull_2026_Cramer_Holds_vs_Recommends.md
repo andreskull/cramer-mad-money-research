@@ -2,6 +2,8 @@
 
 *Working Paper, April 2026*
 
+**SSRN:** [6643379](https://ssrn.com/abstract=6643379)
+
 **Author:** Andres Kull, PhD
 **Affiliation:** Creator, finfluencers.trade
 **Email:** andres.a.kull@gmail.com
@@ -724,7 +726,7 @@ A separate and directly measurable finding supports the interpretation that Cram
 
 ## **Data Availability**
 
-The full reproducibility kit — signal-level CSVs, hold-state LLM classifications, analysis scripts, and figure-generation code — is published at [github.com/andreskull/cramer-mad-money-research](https://github.com/andreskull/cramer-mad-money-research).
+The working paper is available on SSRN ([abstract 6643379](https://ssrn.com/abstract=6643379)). The full reproducibility kit — signal-level CSVs, hold-state LLM classifications, analysis scripts, and figure-generation code — is published at [github.com/andreskull/cramer-mad-money-research](https://github.com/andreskull/cramer-mad-money-research).
 
 The signal-extraction pipeline that produced the underlying recommendation records is operated by [finfluencers.trade](https://finfluencers.trade), a platform that transcribes publicly broadcast financial-media content and identifies stock-specific directional calls from the resulting transcripts. The CSVs in the public repository are the post-processed, paper-aligned snapshots of that pipeline's *Mad Money* coverage as of the data-freeze date; the pipeline itself is not redistributed. The underlying CNBC *Mad Money* broadcast content is the property of CNBC / NBCUniversal and is not redistributed. Only derivative analytical metadata (tickers, dates, computed returns, hold-state classifications) and short verbatim transcript quotes used as evidence for the hold-state reclassification step (§3) are included, under fair-use principles.
 
